@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"gin-boot/pkg/logger"
+	"github.com/Rainmoom/gin-boot/pkg/logger"
 	gormLogger "gorm.io/gorm/logger"
 	"gorm.io/gorm/utils"
 	"time"

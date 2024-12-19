@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"gin-boot/pkg/logger"
+	"github.com/Rainmoom/gin-boot/pkg/logger"
 	"github.com/patrickmn/go-cache"
 	"sync"
 	"time"

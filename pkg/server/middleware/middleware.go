@@ -2,8 +2,8 @@ package middleware
 
 import (
 	"fmt"
-	"gin-boot/pkg/logger"
-	"gin-boot/pkg/server/wrapper"
+	"github.com/Rainmoom/gin-boot/pkg/logger"
+	"github.com/Rainmoom/gin-boot/pkg/server/wrapper"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 	"net/http"

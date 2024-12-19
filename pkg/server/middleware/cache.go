@@ -6,14 +6,14 @@ import (
 	"encoding/gob"
 	"errors"
 	"fmt"
-	"gin-boot/pkg/storage/cache"
+	"github.com/Rainmoom/gin-boot/pkg/storage/cache"
 	"golang.org/x/sync/singleflight"
 	"net/http"
 	"time"
 
 	"github.com/gin-gonic/gin"
 
-	"gin-boot/pkg/logger"
+	"github.com/Rainmoom/gin-boot/pkg/logger"
 )
 
 var (

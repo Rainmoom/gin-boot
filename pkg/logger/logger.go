@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"gin-boot/pkg/conf"
+	"github.com/Rainmoom/gin-boot/pkg/conf"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

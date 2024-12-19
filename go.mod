@@ -1,4 +1,4 @@
-module gin-boot
+module github.com/Rainmoom/gin-boot
 
 go 1.23.2
 

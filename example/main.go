@@ -1,12 +1,12 @@
 package main
 
 import (
-	"gin-boot/pkg/conf"
-	"gin-boot/pkg/logger"
-	"gin-boot/pkg/server"
-	"gin-boot/pkg/server/router"
-	"gin-boot/pkg/storage/cache"
-	"gin-boot/pkg/storage/db/postgres"
+	"github.com/Rainmoom/gin-boot/pkg/conf"
+	"github.com/Rainmoom/gin-boot/pkg/logger"
+	"github.com/Rainmoom/gin-boot/pkg/server"
+	"github.com/Rainmoom/gin-boot/pkg/server/router"
+	"github.com/Rainmoom/gin-boot/pkg/storage/cache"
+	"github.com/Rainmoom/gin-boot/pkg/storage/db/postgres"
 	"os"
 )
 
