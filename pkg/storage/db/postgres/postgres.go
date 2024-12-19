@@ -3,9 +3,9 @@ package postgres
 import (
 	"errors"
 	"fmt"
-	"ginboot/pkg/conf"
-	"ginboot/pkg/logger"
-	"ginboot/pkg/storage"
+	"gin-boot/pkg/conf"
+	"gin-boot/pkg/logger"
+	"gin-boot/pkg/storage"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

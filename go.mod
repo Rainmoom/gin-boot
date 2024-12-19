@@ -1,4 +1,4 @@
-module ginboot
+module gin-boot
 
 go 1.23.2
 

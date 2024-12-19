@@ -2,11 +2,11 @@ package cache
 
 import (
 	"context"
-	"ginboot/pkg/logger"
+	"gin-boot/pkg/logger"
 	"github.com/redis/go-redis/v9"
 	"time"
 
-	"ginboot/pkg/conf"
+	"gin-boot/pkg/conf"
 )
 
 var (

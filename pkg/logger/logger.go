@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"ginboot/pkg/conf"
+	"gin-boot/pkg/conf"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

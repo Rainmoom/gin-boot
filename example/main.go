@@ -1,12 +1,12 @@
 package main
 
 import (
-	"ginboot/pkg/conf"
-	"ginboot/pkg/logger"
-	"ginboot/pkg/server"
-	"ginboot/pkg/server/router"
-	"ginboot/pkg/storage/cache"
-	"ginboot/pkg/storage/db/postgres"
+	"gin-boot/pkg/conf"
+	"gin-boot/pkg/logger"
+	"gin-boot/pkg/server"
+	"gin-boot/pkg/server/router"
+	"gin-boot/pkg/storage/cache"
+	"gin-boot/pkg/storage/db/postgres"
 	"os"
 )
 
