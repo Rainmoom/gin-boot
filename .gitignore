@@ -1,0 +1,7 @@
+.idea
+app.log
+*/app.log
+vendor/
+*.exe
+build/
+go.sum

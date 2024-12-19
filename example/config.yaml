@@ -1,0 +1,20 @@
+mode: release
+
+http:
+  ip: 0.0.0.0
+  port: 8080
+
+redis:
+  addr: dev-server:36379
+  password: redis
+postgres:
+  ip: dev-server
+  port: 35432
+  user: root
+  password: root
+  database: postgres
+log:
+  level: debug
+  path: ./log/app.log
+  maxSize: 1
+  consoleEnable: true
